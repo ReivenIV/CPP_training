@@ -1,0 +1,12 @@
+*.out
+*.o
+*.a
+*.gch
+.vscode
+*.pdf
+test.*
+
+#execs
+megaphone
+Phonebook
+account
