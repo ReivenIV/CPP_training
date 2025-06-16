@@ -2,11 +2,21 @@
 *.o
 *.a
 *.gch
-.vscode
 *.pdf
 test.*
 
+
 #execs
+*.exe
 megaphone
 Phonebook
 account
+zombie
+humanAB
+replace
+harl
+harlFilter
+test
+fixed
+ctrap
+animal
